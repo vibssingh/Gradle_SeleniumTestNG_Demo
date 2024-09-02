@@ -1,4 +1,4 @@
-<b><i>Selenium with TestNG</i></b>
+<b><i>Gradle - Selenium with TestNG</i></b>
 
 This framework consists of:
 
